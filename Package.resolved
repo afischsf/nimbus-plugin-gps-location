@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Nimbus",
+        "repositoryURL": "https://github.com/salesforce/nimbus",
+        "state": {
+          "branch": "master",
+          "revision": "45130c2a1c8f7215bfe70170104c9639eb028d61",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
