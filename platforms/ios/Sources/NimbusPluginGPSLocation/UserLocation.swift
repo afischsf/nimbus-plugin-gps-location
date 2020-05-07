@@ -18,6 +18,6 @@ public struct UserLocation: Encodable {
 extension UserLocation {
     init(location: CLLocation) {
         self.latitude = location.coordinate.latitude
-        self.longitude = location.coordinate.latitude
+        self.longitude = location.coordinate.longitude
     }
 }
